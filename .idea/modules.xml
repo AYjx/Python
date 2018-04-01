@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Crawl_Reptile/.idea/Crawl_Reptile.iml" filepath="$PROJECT_DIR$/../Crawl_Reptile/.idea/Crawl_Reptile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataAnalysisCode/.idea/DataAnalysisCode.iml" filepath="$PROJECT_DIR$/../DataAnalysisCode/.idea/DataAnalysisCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MLAction/.idea/MLAction.iml" filepath="$PROJECT_DIR$/../MLAction/.idea/MLAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MachineLearningCourse/.idea/MachineLearningCourse.iml" filepath="$PROJECT_DIR$/../MachineLearningCourse/.idea/MachineLearningCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MachineLearninginAction/.idea/MachineLearninginAction.iml" filepath="$PROJECT_DIR$/../MachineLearninginAction/.idea/MachineLearninginAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python基础教程/.idea/Python基础教程.iml" filepath="$PROJECT_DIR$/../Python基础教程/.idea/Python基础教程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RecQ-master/.idea/RecQ-master.iml" filepath="$PROJECT_DIR$/../RecQ-master/.idea/RecQ-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Django/mySite/.idea/mySite.iml" filepath="$PROJECT_DIR$/../Django/mySite/.idea/mySite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Django/mysite_test/.idea/mysite_test.iml" filepath="$PROJECT_DIR$/../Django/mysite_test/.idea/mysite_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oldboy_class.iml" filepath="$PROJECT_DIR$/.idea/oldboy_class.iml" />
+    </modules>
+  </component>
+</project>
